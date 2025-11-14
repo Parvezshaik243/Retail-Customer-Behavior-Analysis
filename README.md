@@ -51,9 +51,4 @@ This project focuses on **analyzing retail customer behavior** using **Python** 
 
 ---
 
-## 📬 **Contact**
-📧 Email: sharukusa987@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/sharukshaik987/
-
-🔗 GitHub: https://github.com/sharukshaik987/
